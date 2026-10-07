@@ -1,3 +1,4 @@
+# Legacy SpanTrace file
 import re
 
 

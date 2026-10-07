@@ -1,3 +1,4 @@
+# Legacy SpanTrace file
 import re
 from detector import detect_sensitive
 
