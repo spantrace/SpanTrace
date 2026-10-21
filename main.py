@@ -1,4 +1,4 @@
-
+# Legacy SpanTrace file
 from supervisor import supervise
 from refund import process_refund
 

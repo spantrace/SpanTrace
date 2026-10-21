@@ -1,4 +1,4 @@
-# Legacy SpanTrace file
+# Legacy SpanTrace filegit commit -m "Legacy Files"
 import re
 from detector import detect_sensitive
 
