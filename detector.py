@@ -33,4 +33,4 @@ def detect_sensitive(text):
     ):
         findings.append("API_KEY")
 
-    return findings
+    return findings# Legacy SpanTrace file
